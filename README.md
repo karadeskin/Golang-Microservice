@@ -49,3 +49,7 @@ curl http://localhost:8080/
 
 ### or use postman to hit http://localhost:8080/
 
+## Purpose
+
+This project helped me explore core Go concepts like goroutines, channels, and REST APIs, while also practicing local deployment with Docker and endpoint testing using Postman.
+
