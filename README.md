@@ -17,7 +17,7 @@ Lightweight REST API written in Go with concurrency using goroutines and channel
 
 ## Project Structure
 
-Golang-Microservice/
+Golang-Microservice
 - main.go
 - Dockerfile
 - go.mod
