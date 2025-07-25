@@ -1,0 +1,12 @@
+# Binaries
+/server
+
+# Go stuff
+/bin/
+/pkg/
+
+# IDE/editor files
+*.swp
+*.idea
+.vscode
+.DS_Store
